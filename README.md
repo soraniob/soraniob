@@ -1,9 +1,8 @@
 ### Oii eu sou o Sergio mas meus amigos me chamam de Sorani!
 
 - 🔭 Hoje eu Trabalho como Conferente de Loja
-- 🌱 Estudando HTML5 e CSS3
+- 🌱 Estudando HTML5 e CSS3 na Alura
 - 💬 Pergunte-me sobre qualquer coisa
-- 😄 Pronouns: ele/dele
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-HTML" height="30" width="40"   
