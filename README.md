@@ -15,7 +15,7 @@
 
 <div> 
   <a href="https://www.youtube.com/channel/UCiXcnKQwO3GIsfmE-bkSliw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/sergio.sorani/" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://t.ctcdn.com.br/OOPbTa2T8_Y7SIFKQ8r1GU0URnU=/1080x1080/smart/i489927.jpeg)" target="_blank"></a>
+  <a href="https://www.instagram.com/sergio.sorani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/profiles/76561198066096560/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
 </div>
